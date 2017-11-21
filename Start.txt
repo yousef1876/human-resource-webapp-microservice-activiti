@@ -1,0 +1,8 @@
+PACKAGE v.1.7
+    - builder 			--> Atlant layout builder v1.0
+    - documents
+        - Atlant 		--> Atlant Documentation v1.7 -> !!!! DO NOT FORGET TO CHECK IT OUT !!!!         
+
+    - html 			--> Atlant HTML version v1.7
+    - less 			--> Atlant LessCss version v1.7
+    - PSD, PNG 			--> Layered PSD & PNG FILES
