@@ -181,16 +181,7 @@ $ curl http://localhost:9000/orders -H "Authorization: Bearer <YOUR TOKEN>"
 $ curl http://localhost:9000/product/1 -H "Authorization: Bearer <YOUR TOKEN>"
 ```
 
-## References and further reading
 
-  * http://martinfowler.com/articles/microservices.html
-  * http://microservices.io/
-  * http://www.slideshare.net/chris.e.richardson/developing-eventdriven-microservices-with-event-sourcing-and-cqrs-phillyete
-  * http://12factor.net/
-  * http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook
-  * http://pivotal.io/beyond-the-twelve-factor-app
-  * https://blog.docker.com/2016/02/containers-as-a-service-caas/
-  * http://www.kennybastani.com/2016/04/event-sourcing-microservices-spring-cloud.html
   
 
 
