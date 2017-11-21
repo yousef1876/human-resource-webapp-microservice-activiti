@@ -1,0 +1,28 @@
+<ion-view title="News">
+    <ion-content>
+        <ion-nav-buttons side="left">
+            <div class="buttons" ng-show="hasRole('ROLE_ADMIN')">
+                <button class="button button-icon icon ion-ios7-minus-outline"
+                        ng-click="data.showDelete = !data.showDelete"></button>
+            </div>
+        </ion-nav-buttons>
+        <ion-nav-buttons side="right">
+            <a href="#/create" class="button button-icon icon ion-ios7-plus-outline"
+               ng-show="hasRole('ROLE_ADMIN')"></a>
+        </ion-nav-buttons>
+
+        <ion-list show-delete="data.showDelete" can-swipe="hasRole('ROLE_ADMIN')">
+            <ion-item ng-repeat="newsEntry in newsEntries">
+                <h4>{{newsEntry.date | date}}</h4>
+                <p>{{newsEntry.content}}</p>
+                <ion-option-button class="button-assertive"
+                                   ng-click="edit(newsEntry)">
+                    Edit
+                </ion-option-button>
+                <ion-delete-button class="ion-minus-circled"
+                                   ng-click="deleteEntry(newsEntry)">
+                </ion-delete-button>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
