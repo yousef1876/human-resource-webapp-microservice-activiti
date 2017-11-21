@@ -1,0 +1,5 @@
+19:00:57.953 INFO  org.apache.syncope.core.persistence.jpa.spring.DomainEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'Two'
+19:00:59.017 INFO  org.apache.syncope.core.persistence.jpa.spring.DomainEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'Two'
+19:00:59.348 INFO  org.apache.syncope.core.persistence.jpa.spring.DomainEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'Master'
+19:00:59.360 INFO  org.apache.syncope.core.persistence.jpa.spring.DomainEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'Master'
+19:02:03.608 INFO  org.apache.syncope.core.persistence.jpa.content.AbstractContentDealer - [Master] Data found in the database, leaving untouched

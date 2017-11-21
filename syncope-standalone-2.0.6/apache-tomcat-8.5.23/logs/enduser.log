@@ -1,0 +1,1 @@
+19:03:21.375 ERROR org.apache.syncope.client.enduser.init.ClassPathScanImplementationLookup - Could not find annotation org.apache.syncope.client.enduser.annotations.Resource in org.apache.syncope.client.enduser.resources.CaptchaResource, ignoring
