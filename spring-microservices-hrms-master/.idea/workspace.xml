@@ -12,6 +12,19 @@
     <ignored path="$PROJECT_DIR$/../secure/microservices-hrms/.gradle/" />
     <ignored path="$PROJECT_DIR$/../secure/microservices-hrms/build/" />
     <ignored path="$PROJECT_DIR$/../secure/microservices-hrms/out/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-eureka/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-config-server/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-hystrix-dashboard/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-authserver/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-catalog/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-api-gateway/target/" />
+    <ignored path="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-reviews/target/" />
+    <ignored path="E:/cygwinx86/usr/local/grails-angular-master/.gradle/" />
+    <ignored path="E:/cygwinx86/usr/local/grails-angular-master/build/" />
+    <ignored path="E:/cygwinx86/usr/local/boot-ionic-master/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +44,9 @@
     <select />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="E:/cygwinx86/usr/local/grails-angular-master">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
@@ -46,91 +62,372 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ResourceRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/ResourceRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/RoleRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/ClientVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/ErrorVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/ResourceVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/RoleVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateSpecification.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/DateSpecification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalDateTimeAfter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/LocalDateTimeAfter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalDateTimeBefore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/LocalDateTimeBefore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalDateTimeBetween.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/LocalDateTimeBetween.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dataSource</find>
+    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$/starter" value="C:\Users\CDSTAR\.gradle\wrapper\dists\gradle-3.5-rc-2-bin\7ktl4k9rdug30mawecgppf5ms\gradle-3.5-rc-2" />
+        <entry key="E:/cygwinx86/usr/local/grails-angular-master" value="E:\gradle" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$/starter" value="3.5" />
+        <entry key="E:/cygwinx86/usr/local/grails-angular-master" value="2.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="grails-angular-master" />
+              <option name="path" value="E:/cygwinx86/usr/local/grails-angular-master" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="grails-angular-master" />
+                <option name="path" value="E:/cygwinx86/usr/local/grails-angular-master" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="E:/cygwinx86/usr/local/grails-angular-master">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'grails-angular-master'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'grails-angular-master'." />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'grails-angular-master'." />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'grails-angular-master'." />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'grails-angular-master'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'grails-angular-master'." />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'grails-angular-master'." />
+                <option name="linkedExternalProjectPath" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="E:/cygwinx86/usr/local/grails-angular-master" value="0" />
         <entry key="$PROJECT_DIR$/starter/settings.gradle" value="366068638" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="E:/cygwinx86/usr/local/grails-angular-master">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="E:/cygwinx86/usr/local/grails-angular-master">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="E:/cygwinx86/usr/local/grails-angular-master" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="grails-angular-master" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="E:/gradle/lib/ant-1.9.3.jar" />
+                  <option value="E:/gradle/lib/ant-launcher-1.9.3.jar" />
+                  <option value="E:/gradle/lib/gradle-base-services-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-base-services-groovy-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-cli-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-core-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-docs-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-launcher-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-messaging-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-model-core-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-model-groovy-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-native-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-open-api-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-resources-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-tooling-api-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-ui-2.8.jar" />
+                  <option value="E:/gradle/lib/gradle-wrapper-2.8.jar" />
+                  <option value="E:/gradle/lib/groovy-all-2.4.4.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-announce-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-antlr-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-build-comparison-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-build-init-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-code-quality-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-dependency-management-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-diagnostics-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-ear-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-ide-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-ide-native-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-ivy-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-jacoco-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-javascript-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-jetty-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-language-groovy-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-language-java-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-language-jvm-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-language-native-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-language-scala-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-maven-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-osgi-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-platform-base-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-platform-jvm-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-platform-native-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-platform-play-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-plugin-development-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-plugin-use-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-plugins-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-publish-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-reporting-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-resources-http-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-resources-s3-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-resources-sftp-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-scala-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-signing-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-sonar-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-test-kit-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-testing-native-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/gradle-tooling-api-builders-2.8.jar" />
+                  <option value="E:/gradle/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="E:/cygwinx86/usr/local/grails-angular-master/buildSrc/src/main/java" />
+                  <option value="E:/cygwinx86/usr/local/grails-angular-master/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
+  <component name="GrailsSDKManager">
+    <option name="grailsSDKs">
+      <map>
+        <entry key="E:/cygwinx86/usr/local/grails-angular-master" value="E:\local\grails-2.5.4" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/issue/tracking/users/Issue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/issue/tracking/users/Severity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/issue/tracking/users/Resolution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/issue/tracking/users/Project.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/issue/tracking/users/Users.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/bug/tracking/users/Users.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/CandidateScreenTracker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/PositionType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/Positions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/Interviews.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/InterestEmployeeInterview.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/Applicant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/QuestionRating.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/InterviewQuestion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/ApplicantDocType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantAttachment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantExperience.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantQualification.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantSkills.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/AttendanceType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/EmployeeAttendanceTracker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/EmployeeEvaluationSteps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/EmployeeEvaluationTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/CandidateScreenTracker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/EmployeeScheduleTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/RecruitingPlan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/PlanActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/MonthlyWorkSchedule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/ColorListType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/Colors.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/HireDocuments.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/PayrollCheck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/Deductions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/PayrollTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/TimesheetPlan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/TransitionGoals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enums/TransitionRole.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/TransitionPlanTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/VacationScheduleTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/config/security/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/service/impl/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/repo/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/config/security/OAuth2Config.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/activiti/diagrams/eAttendanceProccess.bpmn20.xml.bpmn" />
-        <option value="$PROJECT_DIR$/src/main/resources/activiti/diagrams/eAttendanceLeaveProcess.bpmn20.xml.bpmn" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/HiringFiles.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/HireCheckList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/MonthlyTeamWorkSchedule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/config/activiti/ActivitConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/interfaces/IApplicantRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/config/database/DatabaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/dto/ApplicantDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/ApplicantRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantInterviewedBy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/config/security/oacc/conf/starter/AccessControlContextFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/address/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/address/Country.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/address/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantAttachment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/interfaces/IApplicantInterviews.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/interfaces/IApplicantPosition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/dto/ApplicationAttachmentDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/interfaces/IApplicantAttachment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/interfaces/IApplicantExpereience.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/interfaces/IApplicantExperience.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/dao/applicant/dto/ApplicantExperienceDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantExperience.java" />
+        <option value="E:/cygwinx86/usr/local/boot-ionic-master/src/main/java/example/xauth/TokenUtils.java" />
+        <option value="E:/cygwinx86/usr/local/boot-ionic-master/src/main/java/example/xauth/UserXAuthTokenController.java" />
+        <option value="E:/cygwinx86/usr/local/boot-ionic-master/src/main/java/example/xauth/XAuthTokenConfigurer.java" />
+        <option value="E:/cygwinx86/usr/local/boot-ionic-master/src/main/java/example/xauth/XAuthTokenFilter.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/engine/Engine.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/engine/InProgressAware.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/order/web/CoreOrderResourceProcessor.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/order/web/OrderAlreadyPaidException.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/order/web/OrderControllerEventListener.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/order/web/OrderProjection.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/aspect/PaymentAspect.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/CreditCard.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/CreditCardNumber.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/CreditCardPayment.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/Payment.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/event/OrderPaidEvent.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/repository/CreditCardRepository.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/repository/PaymentRepository.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/service/PaymentException.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/service/PaymentService.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/service/PaymentServiceImpl.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/web/PaymentController.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/web/PaymentLinks.java" />
+        <option value="E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/web/PaymentOrderResourceProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/component/CustomPasswordEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/component/ResultHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/component/SignHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hr/framework/component/Transformer.java" />
       </list>
     </option>
   </component>
@@ -140,6 +437,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="E:/cygwinx86/usr/local/grails-angular-master/node_modules" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="555" />
     <option name="y" value="14" />
@@ -148,7 +456,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -162,7 +470,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -179,44 +486,1073 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Production">
           <expand>
             <path>
-              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="annotations" type="cbb8eebc:String" user="annotations" />
             </path>
             <path>
-              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="annotations" type="cbb8eebc:String" user="annotations" />
+              <item name="com" type="cbb8eebc:String" user="com" />
             </path>
             <path>
-              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="annotations" type="cbb8eebc:String" user="annotations" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="hr/framework/po" type="cbb8eebc:String" user="hr/framework/po" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="annotations" type="cbb8eebc:String" user="annotations" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="store/framework/po" type="cbb8eebc:String" user="store/framework/po" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="xauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="Application.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-ionic-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apigateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apigateway" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apigateway" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apigateway" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apigateway" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apigateway" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="reviews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-authserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-authserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-authserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-authserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-authserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="authserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hystrixdashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-orders" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orders" type="462c0819:PsiDirectoryNode" />
+              <item name="payment" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-recommendations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="neo4j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reviews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-ecommerce-master" type="462c0819:PsiDirectoryNode" />
+              <item name="microservices-reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reviews" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="activiti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="activiti" type="462c0819:PsiDirectoryNode" />
+              <item name="ldap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="applicant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="applicant" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="applicant" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="address" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="applicant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="process" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+              <item name="person" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="activiti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-microservices-hrms-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-microservices-hrms-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.70737326" />
-    <property name="last_opened_file_path" value="E:/local/spring-microservices-hrms-master" />
+    <property name="project.structure.side.proportion" value="0.3008299" />
+    <property name="last_opened_file_path" value="E:/cygwinx86/usr/local/boot-ionic-master" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\cygwinx86\usr\local\spring-microservices-hrms-master\src\main\resources\activiti\diagrams" />
+      <recent name="E:\local\spring-microservices-hrms-master\src\main\java\com\hr\framework\config\database" />
+      <recent name="E:\local\spring-microservices-hrms-master\src\main\resources" />
+      <recent name="E:\local\spring-microservices-hrms-master\src\main\java\com\hr\framework\config\security\oacc\conf\starter" />
+      <recent name="E:\local\spring-microservices-hrms-master\src\main\resources\activiti" />
       <recent name="E:\cygwinx86\usr\local\spring-microservices-hrms-master\src\main\java\com\hr\framework\service\impl" />
-      <recent name="E:\cygwinx86\usr\local\spring-microservices-hrms-master\src\main\java\com\hr\framework\config\security" />
-      <recent name="E:\cygwinx86\usr\local\spring-microservices-hrms-master\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,7 +1567,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="example.Application" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="boot-ionic" />
+      <envs />
+    </configuration>
+    <configuration name="AuthserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.idugalic.authserver.AuthserverApplication" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="microservices-authserver" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -298,6 +1648,12 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -325,6 +1681,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.AuthserverApplication" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -345,54 +1705,66 @@
       <workItem from="1510243726066" duration="1933000" />
       <workItem from="1510254473475" duration="4829000" />
       <workItem from="1510318591818" duration="7273000" />
-      <workItem from="1510411545235" duration="1409000" />
-      <workItem from="1510418674711" duration="1321000" />
-      <workItem from="1510844669662" duration="2976000" />
-      <workItem from="1511074804973" duration="18000" />
+      <workItem from="1510847849339" duration="679000" />
+      <workItem from="1510856843019" duration="1961000" />
+      <workItem from="1510930014805" duration="24627000" />
+      <workItem from="1511029019891" duration="3405000" />
+      <workItem from="1511074850192" duration="3286000" />
+      <workItem from="1511105544022" duration="11364000" />
+      <workItem from="1511163074490" duration="13906000" />
+      <workItem from="1511190200469" duration="812000" />
+      <workItem from="1511193179684" duration="977000" />
+      <workItem from="1511199889264" duration="596000" />
+      <workItem from="1511206470506" duration="795000" />
+      <workItem from="1511243471307" duration="917000" />
+      <workItem from="1511251349949" duration="2463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65514000" />
+    <option name="totallyTimeSpent" value="125578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1288" height="988" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11625148" sideWeight="0.5129241" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3084223" sideWeight="0.5129241" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3602585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34087238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08562197" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3084223" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977462" sideWeight="0.49676898" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977462" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55088854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.009693054" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3475682" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5753262" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.071174376" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977462" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,61 +1774,428 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hr/framework/exception/CommonsException.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/ApplicantQualification.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/CandidateScreenTracker.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/Applicant.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/MonthlyWorkSchedule.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/PayrollCheck.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/HireDocuments.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/ApplicantDocType.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/Colors.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/BugPriority.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/PlanActivity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/applicant/Positions.java" />
-    <entry file="file://$PROJECT_DIR$/target/generated-sources/annotations/com/hr/framework/po/employee/base/Deduction_.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/TransitionGoals.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/Deductions.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/PayrollTemplate.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/TransitionRole.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/bug/tracking/users/Tasks.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enums/SkillLevel.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/WebSecurityConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/custom/CustomOAuth2AuthenticationDetails.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/WebInitializer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/WebMvcConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/custom/CustomClientDetailsService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/custom/CustomAuthenticationProvider.java" />
-    <entry file="file://$PROJECT_DIR$/../secure/oauth2.0-project/src/main/java/com/gigy/service/UserService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/UserRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/security/ResourceServerConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/security/WebSecurityConfig.java" />
-    <entry file="file://$PROJECT_DIR$/starter/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/../secure/microservices-hrms/elk-config/logstash.config" />
-    <entry file="file://$PROJECT_DIR$/../secure/microservices-hrms/util/src/main/java/se/callista/microservices/util/CpuCruncherBean.java" />
-    <entry file="file://$PROJECT_DIR$/../secure/microservices-hrms/microservices/composite/product-composite-service/src/main/java/se/callista/microservices/composite/product/service/ProductCompositeIntegration.java" />
-    <entry file="file://$PROJECT_DIR$/../secure/microservices-hrms/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/../secure/microservices-hrms/microservices/support/auth-server/src/main/java/se/callista/microservises/support/oauth/AuthserverApplication.java" />
-    <entry file="file://$PROJECT_DIR$/../secure/microservices-hrms/microservices/support/config-server/src/main/java/se/callista/microservises/support/ConfigServerApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/service/impl/UserServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/controller/app/HeartbeatController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/config/security/OAuth2Config.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/diagrams_bpmn20/eAttendanceProccess.bpmn20.xml.bpmn" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/diagrams_bpmn20/eAttendanceLeaveProcess.bpmn20.xml.bpmn" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/EmployeeAttendanceTracker.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/EmployeeEvaluationTemplate.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/EmployeeScheduleTemplate.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/RecruitingPlan.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/TransitionPlanTemplate.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/VacationScheduleTemplate.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/TimesheetPlan.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/HireCheckList.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/HiringFiles.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/reports/MonthlyTeamWorkSchedule.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/po/employee/base/Employee.java" />
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/CreditCardNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/CreditCardPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/domain/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/event/OrderPaidEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/repository/CreditCardRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/repository/PaymentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/service/PaymentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/service/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/web/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/web/PaymentLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/payment/web/PaymentOrderResourceProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-orders/src/main/java/com/idugalic/orders/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/org/springframework/cloud/neo4j/GraphDatabaseServiceConnectorCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/org/springframework/cloud/neo4j/GraphDatabaseServiceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/org/springframework/cloud/neo4j/GraphDatabaseServiceInfoCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/repositories/LikesRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/repositories/PersonRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/repositories/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/model/Likes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/controllers/ApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/config/CloudConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/config/DockerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/config/LocalConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-recommendations/src/main/java/com/idugalic/recommendations/config/Neo4jConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-reviews/src/main/java/com/idugalic/reviews/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-reviews/src/main/java/com/idugalic/reviews/repositories/ReviewRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cygwinx86/usr/local/micro-ecommerce-master/microservices-reviews/src/main/java/com/idugalic/reviews/models/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/annotation/CurrentUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/annotation/NotNullField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/annotation/SizeField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/component/CustomPasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/component/LogHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/component/ResultHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/component/SignHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/component/SimpleCORSFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/component/Transformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="85" column="2" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/StateRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/ResourceRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/repo/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/ClientVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/ErrorVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/ResourceVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/vo/RoleVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/DateSpecification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/LocalDateTimeAfter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/LocalDateTimeBefore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hr/framework/spec/LocalDateTimeBetween.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -467,7 +2206,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.13908046" />
                 <option value="0.5" />
               </list>
             </option>
@@ -476,11 +2215,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Detection</last-edited>
+          <last-edited>Web (spring-micro-services-boilerplate)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3008299" />
               </list>
             </option>
           </splitter-proportions>
@@ -491,7 +2230,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3392116" />
               </list>
             </option>
           </splitter-proportions>
@@ -503,7 +2242,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3392116" />
               </list>
             </option>
           </splitter-proportions>
@@ -511,11 +2250,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>starter_test|starter</last-edited>
+          <last-edited>Web|spring-micro-services-boilerplate</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.70737326" />
+                <option value="0.3008299" />
               </list>
             </option>
           </splitter-proportions>
@@ -539,7 +2278,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3392116" />
               </list>
             </option>
           </splitter-proportions>

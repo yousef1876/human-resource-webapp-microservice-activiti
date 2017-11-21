@@ -1,0 +1,4 @@
+rootProject.name = 'starter'
+include '../../secure/microservices-hrms'
+findProject(':../../secure/microservices-hrms')?.name = 'starter'
+
